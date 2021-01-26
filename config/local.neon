@@ -1,0 +1,12 @@
+parameters:
+
+constants:
+    OAUTH_APP_ID: YOUR APP ID (like 492cb4ee-a2456-4dd4-873a-f4gfdgdgf08a)
+    OAUTH_APP_PASSWORD: YOUR APP PASSWORD (like 1sm-0v8~Hxcvxcv3UJ.0_kqy22mthty2)
+    OAUTH_AUTHORITY: https://login.microsoftonline.com/YOURTENANTNAME.onmicrosoft.com
+
+
+database:
+	dsn: 'mysql:host=127.0.0.1;dbname=test'
+	user:
+	password:
