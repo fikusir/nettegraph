@@ -1,7 +1,7 @@
 Nette Microsoft Graph project
 =================
 
-This is a simple, skeleton application using the [Nette](https://nette.org) and Microsoft Graph API(https://docs.microsoft.com/en-us/graph/use-the-api). This is meant to
+This is a simple, skeleton application using the [Nette](https://nette.org) and [Microsoft Graph API][https://docs.microsoft.com/en-us/graph/use-the-api]. This is meant to
 be used as a starting point for your new projects.
 
 [Nette](https://nette.org) is a popular tool for PHP web development.
@@ -46,3 +46,8 @@ should be ready to go.
 
 **It is CRITICAL that whole `app/`, `config/`, `log/` and `temp/` directories are not accessible directly
 via a web browser. See [security warning](https://nette.org/security-warning).**
+
+
+[gdg]: https://docs.microsoft.com/en-us/graph/use-the-api
+
+[https://docs.microsoft.com/en-us/graph/use-the-api]: https://docs.microsoft.com/en-us/graph/use-the-api
