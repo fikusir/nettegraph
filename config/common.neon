@@ -1,10 +1,6 @@
 parameters:
 
 constants:
-    OAUTH_APP_ID: 492cb4ee-a2cc-4dd4-873a-f49c3424d08a
-    OAUTH_APP_PASSWORD: 3mm-0v8~H~gc4FNCv3UJ.0_kqy22mthty2
-    OAUTH_SCOPES: 'openid profile offline_access user.read user.read.all'
-    OAUTH_AUTHORITY: https://login.microsoftonline.com/sevesglassblock.onmicrosoft.com
     OAUTH_AUTHORIZE_ENDPOINT: /oauth2/v2.0/authorize
     OAUTH_TOKEN_ENDPOINT: /oauth2/v2.0/token
 
