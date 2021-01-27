@@ -1,6 +1,6 @@
 # Nette Microsoft Graph project
 
-This is a simple, skeleton application using the [Nette](https://nette.org) and [Microsoft Graph API](https://docs.microsoft.com/en-us/graph/use-the-api). This is meant to
+This is a simple, skeleton application using the [Nette](https://nette.org), and [Microsoft Graph API](https://docs.microsoft.com/en-us/graph/use-the-api) which is part of [Microsoft Graph solution](https://docs.microsoft.com/en-us/graph/). This is meant to
 be used as a starting point for your new projects.
 
 The basic Nette skeleton show you how to use Microsft Graph with Nette.
