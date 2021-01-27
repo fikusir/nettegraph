@@ -26,10 +26,6 @@ The best way to install Web Project is using Composer. If you don't have Compose
 
 Make directories `temp/` and `log/` writable.
 
-## Configuration
-
-* config/local.neon must be edited regarding your Application ID and Password. The tenant name as well.
-
 ## Web Server Setup
 
 The simplest way to get started is to start the built-in PHP server in the root directory of your project:
