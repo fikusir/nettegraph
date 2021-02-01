@@ -7,8 +7,8 @@ The basic Nette skeleton show you how to use Microsft Graph with Nette.
 
 Here are two scenarios:
 
-- Using Microsoft graph as daemon (without user login). See Presenter **app/Presenters/HomepagePresenter**. Detailed [Instructions](graphasdaemon.md)
-- Using Microsoft graph for user login (oAuth). See Presenter **app/Presenters/Signo365Presenter** (COMMING SOON)
+- Using Microsoft graph as daemon (without user login). See Presenter **app/Presenters/GraphPresenter**. Detailed [Instructions](graphasdaemon.md)
+- Using Microsoft graph for user login (oAuth). See Presenter **app/Presenters/Signo365Presenter** [Instructions](graphasuser.md)
 
 ## Requirements
 
@@ -22,6 +22,7 @@ The best way to install Web Project is using Composer. If you don't have Compose
 	composer create-project nette/web-project path/to/install
 	cd path/to/install
 	composer require microsoft/microsoft-graph
+	composer require league/oauth2-client
 
 
 Make directories `temp/` and `log/` writable.

@@ -28,6 +28,10 @@ class ComposerStaticInit282f65bd5f240d12c712912b97f1835d
         array (
             'Microsoft\\Graph\\' => 16,
         ),
+        'L' => 
+        array (
+            'League\\OAuth2\\Client\\' => 21,
+        ),
         'G' => 
         array (
             'GuzzleHttp\\Psr7\\' => 16,
@@ -60,6 +64,10 @@ class ComposerStaticInit282f65bd5f240d12c712912b97f1835d
         'Microsoft\\Graph\\' => 
         array (
             0 => __DIR__ . '/..' . '/microsoft/microsoft-graph/src',
+        ),
+        'League\\OAuth2\\Client\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/league/oauth2-client/src',
         ),
         'GuzzleHttp\\Psr7\\' => 
         array (

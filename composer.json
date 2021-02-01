@@ -20,7 +20,8 @@
 		"nette/utils": "^3.2",
 		"latte/latte": "^2.9",
 		"tracy/tracy": "^2.8",
-		"microsoft/microsoft-graph": "^1.25"
+		"microsoft/microsoft-graph": "^1.25",
+		"league/oauth2-client": "^2.6"
 	},
 	"require-dev": {
 		"nette/tester": "^2.3",
